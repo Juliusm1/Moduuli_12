@@ -1,0 +1,17 @@
+body{
+  background-color: rgb(228, 206, 178);
+  color: black;
+}
+
+
+.football {
+  width: 150px; 
+  height: auto; 
+  left: 10px; 
+}
+.carousel-item img {
+  max-height: 500px; 
+  width: 100%; 
+  object-fit: contain; 
+}
+
